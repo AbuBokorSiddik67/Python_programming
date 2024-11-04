@@ -28,3 +28,11 @@ This is multiline comment.
 # my_tuple=(1,two,3);
 # Range type data:
 # r= range(5);
+# a=b"hello world"
+# print(a)
+# bytearray = bytearray(b'Amer soner bangla ami toamai valo basi')
+# print(bytearray)
+# mv=memoryview(b'abe')
+# print(mv)
+# a=None
+# print(a)
